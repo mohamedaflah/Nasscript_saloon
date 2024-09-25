@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/world-flag_240-GBR--United Kingdom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="rectangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-912.000000, -1504.000000)">
+        <g id="GBR--United-Kingdom" transform="translate(912.000000, 1504.000000)">
+            <rect id="blue-dark" fill="#227FBB" x="0" y="0" width="48" height="32"></rect>
+            <polygon id="white" fill="#FFFFFF" fill-rule="nonzero" points="5.40832691 3.99680289e-15 48 28.3944487 48 32 42.5916731 32 0 3.60555128 5.32907052e-15 0"></polygon>
+            <polygon id="white" fill="#FFFFFF" fill-rule="nonzero" points="5.40832691 32 48 3.60555128 48 0 42.5916731 7.10542736e-15 0 28.3944487 5.32907052e-15 32"></polygon>
+            <polygon id="red" fill="#E94B35" fill-rule="nonzero" points="0 0 0 2.40370085 20.3944487 16 24 16"></polygon>
+            <polygon id="red" fill="#E94B35" fill-rule="nonzero" points="24 16 24 13.5962991 44.3944487 3.55271368e-15 48 3.55271368e-15"></polygon>
+            <polygon id="red" fill="#E94B35" fill-rule="nonzero" points="48 32 48 29.5962991 27.6055513 16 24 16"></polygon>
+            <polygon id="red" fill="#E94B35" fill-rule="nonzero" points="3.55271368e-15 32 24 16 24 18.4037009 3.60555128 32"></polygon>
+            <path d="M29,11 L48,11 L48,21 L29,21 L29,32 L19,32 L19,21 L0,21 L0,11 L19,11 L19,0 L29,0 L29,11 Z" id="white-cross" fill="#FFFFFF"></path>
+            <path d="M27,13 L48,13 L48,19 L27,19 L27,32 L21,32 L21,19 L0,19 L0,13 L21,13 L21,0 L27,0 L27,13 Z" id="red-cross" fill="#E94B35"></path>
+        </g>
+    </g>
+</svg>

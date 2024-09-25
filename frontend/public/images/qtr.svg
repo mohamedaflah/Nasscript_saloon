@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="32px" viewBox="0 0 48 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/world-flag_184-QAT--Qatar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="rectangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-336.000000, -1184.000000)">
+        <g id="QAT--Qatar" transform="translate(336.000000, 1184.000000)">
+            <rect id="white" fill="#FFFFFF" x="0" y="0" width="48" height="32"></rect>
+            <path d="M48,0 L48,32 L22.7059829,32 L16.5,32 L22.3235294,30.2222222 L16.5,28.4444444 L22.3235294,26.6666667 L16.5,24.8888889 L22.3235294,23.1111111 L16.5,21.3333333 L22.3235294,19.5555556 L16.5,17.7777778 L22.3235294,16 L16.5,14.2222222 C16.5,14.2222222 22.3236339,12.4444977 22.3235294,12.4444444 L16.5,10.6666667 L22.3235294,8.88888889 L16.5,7.11111111 L22.3235294,5.33333333 L16.5,3.55555556 L22.3235294,1.77777778 L16.5,0 L22.5882353,0 L48,0 Z" id="purple" fill="#AA3751"></path>
+        </g>
+    </g>
+</svg>
